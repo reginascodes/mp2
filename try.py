@@ -21,8 +21,11 @@ maintemp = temp_to_use.split('_') #outputs a list ng mga parts ng template (temp
 
 inputs = []
 for word in rfill:
-	print('Input a/an ' + word + ':')
-	inputs.append(input())
+	if 'entered' in word: #minsan nagapainput ng something na nainput na before, pangit tignan pag naka-"input a/an"
+		print('Input' + word + ':')
+	else:
+		print('Input a/an ' + word + ':')
+	inputs.append(input()) #Gawa tayo ng error statement pag walang ininput? 
 	print('Inputs:', str(inputs))
 
 print('Story:')
