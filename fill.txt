@@ -1,0 +1,5 @@
+name,adjective,noun,emotion,noun,verb,verb,noun,verb,noun,verb,verb,verb,noun,verb+ing,adjective,adjective
+noun,adjective,verb,adverb,noun,adjective,plural noun,plural noun, plural noun,part of the body,noun,noun,noun,noun,part of the body
+adjective,noun,plural noun,adjective,adjective,verb + ing,verb + ing,adjective,adjective,noun,food,part of the body (plural),adjective,vehicle,food,food,something alive (plural),something alive(plural),adverb,noun
+adjective,someone's name,adjective,noun,verb,animal,verb + ing,adverb,adjective,someone's name,adjective,noun,verb + ing,plural noun,verb + ing
+noun,noun,name,adjective,noun,noun,noun,adjective,plural noun,plural noun,adjective,noun,adjective
